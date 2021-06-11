@@ -7,9 +7,10 @@ const NavBar = () => {
                     <img src={ImgDsDark} alt="DevSuperior" width="120" />
                 </nav>
             </div>
-      </div>
-    );
-  }
-  
-  export default NavBar;
-  
+        </div>
+    );  
+}
+
+
+export default NavBar;
+
